@@ -2,7 +2,7 @@
 
 Інтерактивний дашборд з аналізом введення житла в експлуатацію в Україні у 2021–2025 роках.
 
-Посилання: [https://public.tableau.com/app/profile/victoriia.artemieva/viz/20212025_17874731918840/20212025?publish=yes]
+Посилання: https://public.tableau.com/app/profile/victoriia.artemieva/viz/20212025_17874731918840/20212025?publish=yes
 
 ## Що показано на дашборді
 
