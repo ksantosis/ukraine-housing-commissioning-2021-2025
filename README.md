@@ -138,8 +138,6 @@
 
 ## Файли репозиторію
 
-## Файли репозиторію
-
 - [`data/raw/`](data/raw/) — сирі дані Держстату
 - [`final_vvedennya_zhytla_2021_2025.csv`](data/cleaned/final_vvedennya_zhytla_2021_2025.csv) — фінальна таблиця по регіонах і роках
 - [`data_long_format_housing_2021_2025.csv`](data/long_format/data_long_format_housing_2021_2025.csv) — дані для Tableau
